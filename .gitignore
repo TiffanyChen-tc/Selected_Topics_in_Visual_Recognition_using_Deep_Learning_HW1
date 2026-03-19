@@ -1,0 +1,6 @@
+__pycache__/
+cv_hw1_data/
+best_finetune.pth
+best_model.pth
+prediction.csv
+prediction.zip
