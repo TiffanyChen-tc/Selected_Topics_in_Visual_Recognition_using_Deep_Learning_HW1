@@ -8,6 +8,8 @@ My final method is a multi-granularity visual recognition framework based on a p
 
 The goal of this project is to improve discriminative feature learning for fine-grained multi-class recognition and to build a complete training-to-inference pipeline.
 
+Total Params: 99.02M
+
 ## Environment Setup
 
 ### Recommended Environment
