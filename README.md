@@ -93,6 +93,9 @@ The model was evaluated under three settings:
 - **With finetuning**  
   Best validation accuracy = **95.67%**
 
+- **Competition**
+  ![image](https://github.com/TiffanyChen-tc/Selected_Topics_in_Visual_Recognition_using_Deep_Learning_HW1/blob/ce45a17b1603c16efda8405949d264ca8b9610ed/competition.png)
+  
 These results show that jigsaw-based multi-granularity training improves the baseline model, and the finetuning stage further refines the learned representation to achieve the best final validation performance.
 
 ### Key Observations
